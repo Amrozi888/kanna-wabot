@@ -8,11 +8,12 @@ let logo = global.logoowner
 *💌 Nama* : Rozi
 *🎨 Umur* : 15
 *🧮 Kelas* : 9
-*📈 Status* : please don't spam me and don't spamcall me!!
+*📈 Status* : Please don't spam me and don't spam call me!!
 
 *───────[ SOSIAL MEDIA ]───────*
 *📷 instagran* : @botynyakamu_02
-
+*🇫  Facebook* : none
+*🏮 Chanel Youtube* : none
 `
 let name = await conn.getName(m.sender)
 
@@ -27,12 +28,12 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
         "productId": "4938174216214248",
         "title": "───────[ OWNER ]───────",
         "description": '\n\n' + ext,
-        "retailerId": "Itu Owner ku ya ^0^",
+        "retailerId": "Itu Owner ku ya ^~^",
         "url": '',
         "descriptionCount": "999999999",
         "productImageCount": "1",
       },
-      "businessOwnerJid": "6285828764046@s.whatsapp.net",
+      "businessOwnerJid": "62831433937633@s.whatsapp.net",
       "contextInfo": {
         "forwardingScore": 9999,
         "isForwarded": false
