@@ -254,7 +254,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `✧────────···[ Dashboard ]···─────────✧`.trim(),
+          "title": `✧────────···[ zifabotz ]···─────────✧`.trim(),
           "description": `${ucapan()}, ${name} !`.trim(),
           "footerText": `╭━━━━━━━━━━━━━━━━┈─✧
 ┴
@@ -277,7 +277,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
      ▌│█║▌║▌║║▌║▌║█│▌
      
      ${week}, ${date}`,
-          "buttonText": "Click Here!",
+          "buttonText": "Klik untuk menu!",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
