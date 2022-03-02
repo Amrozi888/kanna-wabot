@@ -7,8 +7,8 @@ let info = `
 ║ ┅ ๑————————————๑                                         
 ║┊ ⌲ *Buy* = _5k/minggu (7 Hari)_
 ║┊ ⌲ *Buy* = _15k/bulan (1 bulan)_
-║┊ ⌲ *Buy* = _35k/tahun (12 bulan)_
-║┊ ⌲ *VIP* = _50k/Permanent_
+║┊ ⌲ *Buy* = _35k/bulan (8 bulan)_
+║┊ ⌲ *Buy* = _65k/tahun (12 bulan)_
 ╰═ ┅ ═══════
 
 ╭═══ *〘 PAKET HEMAT 〙*
@@ -16,7 +16,7 @@ let info = `
 ║┊ ⌲ _20k (Sewa 1 bulan, premium 1 Bulan)_
 ║┊ ⌲ _30k (Sewa 2 bulan, premium 1.5 bulan)_
 ║┊ ⌲  _45k (8 Bulan sewa, 5 Bulan premium)_
-║┊ ⌲  _65k (all permanent)_
+║┊ ⌲  _65k (12 bulan sewa,6 Bulan premium)_
 ╰═ ┅ ═══════
 
 ༅ _*KEUNTUNGAN USER PREMIUM*_
@@ -34,7 +34,7 @@ let info = `
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT_
+_https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv_
 
 ▌│█║▌║▌║║▌║▌║█│▌
 ▌│█║▌║▌║║▌║▌║█│▌
