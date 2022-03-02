@@ -5,9 +5,9 @@ let handler = async (m, { conn }) => {
 
 let str = `››╭─〘 *Donasi* 〙
 ╭╡
-│┝‷✧ *Pulsa:* 6285828764046
-│┝‷✧ *Dana:* 6285828764046
-│┝‷✧ *Gopay:* 6285828764046
+│┝‷✧ *Pulsa:* 085828764046
+│┝‷✧ *Dana:* 085828764046
+│┝‷✧ *Gopay:* 085828764046
 │╰───···─────
 │⁺◛˖ Ingin Donasi? Chat nomor dibawah
 ╰──────────···───╮`
