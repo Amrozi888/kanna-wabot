@@ -56,7 +56,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 🧿 *Server:* ${os.hostname()}
 🔎 *Browser:* ${conn.browserDescription[1]}
 *🏢 Hostname:* ${conn.browserDescription[0]}
-📢 *Report:* wa.me/6285712420674
+📢 *Report:* wa.me/6285828764046
 ⭕ *Prefix:* (# / ! .)
 🍃 *Speed:* ${neww - old} *ms*
 👥 *Total user:* ${totalreg} *user*
@@ -77,12 +77,10 @@ let handler  = async (m, { conn, usedPrefix }) => {
 *ℒ⃝💻C O N N E C T  W I T H  M E*
 
 ⛎ *Api:* http://api-alphabot.herokuapp.com
-♈ *Youtube:* http://youtube.com/c/zeeoneofc
-♉ *Github:* http://zeeoneofc.github.io
-♊ *Insragram:* http://instagram.com/_ppiowy
-♋ *Tiktok:* http://tiktok.com/@zeeoneofc
-♌ *Telegram:* http://t.me/zeeoneofc
-♎ *Ch telegram:* http://t.me/zeeone_ofc
+♈ *Youtube:* http://youtube.com/c/zalfafahrozi
+♉ *Github:* https://github.com/Amrozi888
+♊ *Insragram:* http://instagram.com/zalfapontianak
+♋ *Tiktok:* http://tiktok.com/@rozi_224
 ♏ *Whatsapp:* wa.me/6285712420674
 
 
