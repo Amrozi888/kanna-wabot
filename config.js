@@ -94,7 +94,7 @@ global.author = '۰ ⸼'
 // silakan di ganti klo mau
 global.botwm = `©️zifabotz`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.imagebot = `https://telegra.ph/file/1a6c988fb349caf3acb6f.jpg`
+global.imagebot = `https://telegra.ph/file/75aeeaa455b70c08adf30.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
 global.logoowner = fs.readFileSync('./src/owner.jpg')
 global.wait = '```[ ! ] wait...```'
