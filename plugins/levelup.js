@@ -16,7 +16,7 @@ conn.sendButton(m.chat, str, wm, 'MY', '.my', m)
 Selamat, anda telah naik level! 📊
 *${user.level - 1}* ➠ *${user.level}*
   `.trim()
-conn.sendButton(m.chat, str2, wm, 'MY', '.my',m)
+conn.sendButton(m.chat, str2, wm, 'profile', '.profile',m)
 }
 
 handler.help = ['levelup']
