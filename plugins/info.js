@@ -47,7 +47,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
   let str = `
                *ℒ⃝👾 B O T  S T A T I S T I C*
                
-👩🏻‍💻 *Owner:* wa.me/6285712420674
+👩🏻‍💻 *Owner:* wa.me/6285828764046
 🧪 *Mode:* ${global.opts['self'] ? 'Private' : 'Publik'}
 📊 *Versi:* ${package.version}
 💻 *Platform:* Unbuntu Linux
