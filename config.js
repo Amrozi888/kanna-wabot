@@ -94,8 +94,8 @@ global.author = '۰ ⸼'
 // silakan di ganti klo mau
 global.botwm = `©️zifabotz`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.imagebot = `https://telegra.ph/file/75aeeaa455b70c08adf30.jpg`
-global.logo = fs.readFileSync('./src/logo3.jpg')
+global.imagebot = `https://telegra.ph/file/d45c650d609a6e988f9f9.jpg`
+global.logo = fs.readFileSync('./src/https://telegra.ph/file/d45c650d609a6e988f9f9.jpg')
 global.logoowner = fs.readFileSync('./src/owner.jpg')
 global.wait = '```[ ! ] wait...```'
 global.rpg = '[ ! ] Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
