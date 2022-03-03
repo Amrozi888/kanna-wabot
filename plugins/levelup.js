@@ -9,7 +9,7 @@ let handler = m => {
 Level *${user.level} (${user.exp}/${max}) 📊*
 Kurang *${min} XP ✨* lagi!
 `.trim()
-conn.sendButton(m.chat, str, wm, 'MY', '.my', m)
+conn.sendButton(m.chat, str, wm, 'Profile', '.profile', m)
   }
   user.level++
   let str2 = `
