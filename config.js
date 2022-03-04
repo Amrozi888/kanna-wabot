@@ -88,14 +88,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 zifabotz\nwa.me/6282122977451\n\n\n𝙱𝚢 rozi\n\n\nFollow IG: @zalfapontianak\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 zifabotz\nwa.me/6285828764046\n\n\n𝙱𝚢 rozi\n\n\nFollow IG: @zalfapontianak\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `©️zifabotz`//UBAH JADI NAMAMU
-global.botdate = `╭──────────═┅═────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.imagebot = `https://telegra.ph/file/d45c650d609a6e988f9f9.jpg`
-global.logo = fs.readFileSync('./src/https://logo3.jpg')
+global.botwm = `zifabotz`//UBAH JADI NAMAMU
+global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
+global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
+global.logo = fs.readFileSync('./src/logo3.jpg')
 global.logoowner = fs.readFileSync('./src/owner.jpg')
 global.wait = '```[ ! ] wait...```'
 global.rpg = '[ ! ] Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
